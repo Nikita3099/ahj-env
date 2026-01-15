@@ -1,1 +1,1 @@
-![CI](https://github.com/Nikita3099/ajs-health/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Nikita3099/ahj-env/actions/workflows/web.yml/badge.svg)
